@@ -73,7 +73,7 @@ const HeroSection = () => {
         transition={{ delay: 0.6, duration: 0.6 }}
       >
         <a
-          href="/Saad_CV.pdf"
+          href="./Saad_CV.pdf"
           download
           className="px-6 py-2 text-sm font-semibold border border-white rounded-full hover:bg-white hover:text-[#0f172a] transition-colors duration-300 shadow-md"
         >
