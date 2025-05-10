@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@tailwind utilities;
+
+/* Custom styles (optional) */
+body {
+  font-family: "Inter", sans-serif;
+}
