@@ -2,6 +2,8 @@ import { FaGithub } from "react-icons/fa";
 import SaadImg from "../assets/1Saad-white-bg.png";
 import { motion } from "framer-motion";
 import { TypeAnimation } from "react-type-animation";
+// import { TypeAnimation } from "../assets/Saad_CV.pdf";
+import CV from "../assets/Saad_CV.pdf";
 
 const HeroSection = () => {
   return (
